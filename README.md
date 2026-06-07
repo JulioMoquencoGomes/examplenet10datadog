@@ -32,3 +32,7 @@ Environment variables:
 - `DD_SERVICE` - Service name (default: my-dotnet-app)
 - `DD_ENV` - Environment (default: development)
 - `DD_VERSION` - App version (default: 1.0.0)
+
+## Tests Done
+
+![datadog](Imagens/dataDog.png)
